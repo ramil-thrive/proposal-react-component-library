@@ -130,6 +130,12 @@ Mantine, Ant Design and MaterialUI are all popular UI component libraries that p
     - Transition
     </details>
 
+**Cons**:
+
+- Minimum required packages to install with unpacked sizes: `@mantine/core` (6.22 MB), `@mantine/hooks` (562 kB), `@emotion/react` (584 kB).
+- Minimum required packages to install with unpacked sizes: `@mui/material` (10.1 MB), `@emotion/styled` (177 kB), `@emotion/react` (584 kB).
+- Minimum required packages to install with unpacked sizes: `antd` (51.8 MB).
+
 ---
 
 **[Ant Design](https://ant.design/)** is a popular, comprehensive design system and user interface library for building enterprise-level web applications. Originating from Alibaba, it's based primarily on the React JavaScript library and provides a vast range of pre-designed components.
@@ -331,6 +337,12 @@ Additional info about these 3 libraries:
 - https://mantine.dev/pages/about/
 - https://ant.design/docs/react/introduce
 - https://mui.com/about/
+
+**Minimum required packages to install with unpacked sizes:**
+
+- Mantine: `@mantine/core` (6.22 MB), `@mantine/hooks` (562 kB), `@emotion/react` (584 kB).
+- Ant Design: `antd` (51.8 MB).
+- Material UO: `@mui/material` (10.1 MB), `@emotion/styled` (177 kB), `@emotion/react` (584 kB).
 
 In summary, Mantine, Ant Design, and MaterialUI are all great options for building web interfaces. MaterialUI is well-suited for general-purpose applications, Mantine focuses on performance and developer experience, while Ant Design is popular for enterprise-level applications with a distinctive design system.
 
